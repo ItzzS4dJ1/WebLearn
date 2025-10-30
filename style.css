@@ -1,0 +1,28 @@
+#header1{
+    color: #e32f2f;
+    font-size: 24px;
+    text-align: center;
+    
+}
+
+#body-index {
+    margin: 0;
+    background-color: hsl(0, 0%, 16%);
+    font-family: Arial, sans-serif;
+
+}
+ul{
+    color : #e32f2f;
+    list-style-type: none;
+}
+#happy{
+    height: 150px;
+    align: center;
+
+}
+#buy-klet{
+    color: #e32f2f;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: hsl(0, 0%, 9%);
+}
